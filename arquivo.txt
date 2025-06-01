@@ -1,0 +1,29 @@
+1
+1
+Produto A
+10.50
+100
+
+ID: 1, Descrição: Produto A, Preço: 10.50, Estoque: 100
+
+2
+1
+1
+1
+
+4
+1
+Produto A, Preço: 10.50
+
+5
+1
+Produto A Atualizado
+12.00
+90
+
+3
+
+6
+1
+
+7
